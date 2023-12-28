@@ -1,0 +1,2 @@
+import departments from "./collection";
+
